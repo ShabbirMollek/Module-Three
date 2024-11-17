@@ -1,0 +1,26 @@
+nav > ul > li {
+                display: inline;
+                margin-right:45px ;
+                
+}
+nav{
+                text-align: center;
+}
+
+li >a {
+                text-decoration: none;
+}
+main{
+                padding: 20px;
+}
+
+
+
+
+
+
+
+footer{
+                text-align: center;
+                margin-top:40px ;
+}
