@@ -1,0 +1,8 @@
+td,th{
+                border: 1px solid cornflowerblue;
+                padding: 10px;
+}
+table{
+                border-collapse: collapse;
+            
+}
